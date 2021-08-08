@@ -277,18 +277,30 @@ Note: from topic 1 to 12 covered from this link
      - [Link](https://www.programiz.com/javascript/prototype) 
 10. Classes 
 11. ES6
+- [Link](https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/) 
+
 12. Browser Compatibility and Transpilation
      - npm 
 13. Modules
      - import/ export
-14. Promises 
+     - [Link](https://github.com/ahmadhah/JavaScript/tree/main/Modules)
+
+14. Promises, setTimeout, synchronous vs Asynchronous, Async-Await   
+- [Link-1](https://www.programiz.com/javascript/promise)
+- [Link-2](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [Link-3](https://scotch.io/courses/10-need-to-know-javascript-concepts/callbacks-promises-and-async)
+
 15. Try-Catch 
+- [Link-1](https://www.programiz.com/javascript/try-catch-finally)
+
 16. Browser Memory 
-17. setTimeout 
-18. synchronous vs Asynchronous 
-19. Async-Await 
-20. JavaScript and JSON 
+- [Link](https://www.tutorialrepublic.com/html-tutorial/html5-web-storage.php)
+
+20. JavaScript and JSON
+- [Link-1](https://www.programiz.com/javascript/json )
 21. Data Fetching 
+- [Link-1](https://medium.com/swlh/consuming-apis-using-javascript-c980abd36d59)
+- [Link-1](https://javascript.info/async-await)
 22. Requests..
 <br>
    ---
@@ -312,5 +324,9 @@ Note: from topic 1 to 12 covered from this link
 12.	Image Slider
 13.	Change CSS with JavaScript
 14.	To Do List (Four Kinds of dif. to do lists)
+15. CGPA & GPA Calculator
+16. Github Users searching 
+17. etc..
+
 
 
