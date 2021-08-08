@@ -249,6 +249,52 @@
 
 <br>
 
+## Part-3 :
+
+
+<h3 id= "advance">Advance JS(Continue)</h3>
+
+<br>
+
+Note: from topic 1 to 12 covered from this link
+
+- [Link](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+
+1. Introduction 
+2. Conditionals 
+3. Functions 
+4. Scope 
+5. Arrays 
+6. Loops 
+7. Iterators
+     - .forEach()
+     - .map()
+     - .filter()
+     - .reduce()
+8. Objects 
+     - getters and setters
+9. Prototype
+     - [Link](https://www.programiz.com/javascript/prototype) 
+10. Classes 
+11. ES6
+12. Browser Compatibility and Transpilation
+     - npm 
+13. Modules
+     - import/ export
+14. Promises 
+15. Try-Catch 
+16. Browser Memory 
+17. setTimeout 
+18. synchronous vs Asynchronous 
+19. Async-Await 
+20. JavaScript and JSON 
+21. Data Fetching 
+22. Requests..
+<br>
+   ---
+
+
+
 <h1 id= "projects">Projects Covered</h1>
 
 
